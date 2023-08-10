@@ -1,4 +1,5 @@
-package bellobodo.gui.builder;
+package de.bellobodo.gui.builder;
+
 
 import de.bellobodo.gui.guis.SimpleGUI;
 import org.bukkit.inventory.InventoryHolder;

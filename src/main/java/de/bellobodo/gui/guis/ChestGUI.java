@@ -1,4 +1,4 @@
-package bellobodo.gui.guis;
+package de.bellobodo.gui.guis;
 
 import de.bellobodo.gui.guis.items.GUIItems;
 import org.bukkit.Material;

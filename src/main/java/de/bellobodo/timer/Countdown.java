@@ -1,4 +1,4 @@
-package bellobodo.timer;
+package de.bellobodo.timer;
 
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;

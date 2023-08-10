@@ -1,4 +1,4 @@
-package bellobodo.gui.guis.items;
+package de.bellobodo.gui.guis.items;
 
 import org.bukkit.ChatColor;
 import org.bukkit.Material;

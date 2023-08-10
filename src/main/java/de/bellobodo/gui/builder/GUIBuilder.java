@@ -1,4 +1,4 @@
-package bellobodo.gui.builder;
+package de.bellobodo.gui.builder;
 
 interface GUIBuilder {
 

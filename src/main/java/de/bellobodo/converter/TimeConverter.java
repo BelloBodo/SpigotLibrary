@@ -1,4 +1,4 @@
-package bellobodo.converter;
+package de.bellobodo.converter;
 
 public class TimeConverter {
 
