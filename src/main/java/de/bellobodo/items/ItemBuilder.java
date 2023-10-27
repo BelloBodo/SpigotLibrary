@@ -1,4 +1,4 @@
-package de.bellobodo.itemBuilder;
+package de.bellobodo.items;
 
 import org.bukkit.Material;
 import org.bukkit.enchantments.Enchantment;
